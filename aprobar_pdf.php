@@ -13,7 +13,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['matricula'])) {
             break;
         }
     }
-
+// hiola
     // Guardar los cambios en el JSON
     file_put_contents('data/cursos.json', json_encode($cursos, JSON_PRETTY_PRINT));
 

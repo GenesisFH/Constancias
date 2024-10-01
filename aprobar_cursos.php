@@ -4,6 +4,8 @@ require('fpdf/fpdf.php');
 // Obtener el índice del curso a aprobar
 $index = $_GET['index'];
 
+//hola
+
 // Leer los cursos del archivo JSON
 $archivo_json = 'data/cursos.json';
 $cursos = json_decode(file_get_contents($archivo_json), true);

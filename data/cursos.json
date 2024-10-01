@@ -1,0 +1,28 @@
+[
+    {
+        "curso_id": "66fb4c17a3d1d",
+        "matricula": "20490223",
+        "nombres": "JUAN",
+        "apellido_paterno": "MORALES",
+        "apellido_materno": "OCIO",
+        "correo_electronico": "a21490066@itmexicali.edu.mx",
+        "nombre_curso": "HOLA MUNDO",
+        "horas_curso": "10",
+        "fecha_inicio": "2024-09-27",
+        "fecha_fin": "2024-09-30",
+        "estado": "Aprobado"
+    },
+    {
+        "curso_id": "66fb4cd9c5e32",
+        "matricula": "20490223",
+        "nombres": "JUAN",
+        "apellido_paterno": "OCIO",
+        "apellido_materno": "OCIO",
+        "correo_electronico": "a20490223@itmexicali.edu.mx",
+        "nombre_curso": "HOLA",
+        "horas_curso": "1",
+        "fecha_inicio": "2024-09-30",
+        "fecha_fin": "2024-10-09",
+        "estado": "Aprobado"
+    }
+]
